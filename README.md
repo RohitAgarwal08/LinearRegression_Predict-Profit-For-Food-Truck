@@ -5,4 +5,4 @@ In this project, we are implementing linear regression with one variable to pred
 
 We have to predict profit for given population city(including which is not traverse by our food truck).
 
-Note:This problem statement and dataset is from coursera Andrew ng machine learning
+Note : This problem statement and dataset is from Coursera Andrew Ng Machine Learning
